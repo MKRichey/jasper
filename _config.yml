@@ -4,18 +4,18 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'The Perpetual Student'
+description: "To know and to be known."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Micah Richey'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+nickname: Micah
+bio: 'Husband, Father, and Perpetual Student'
+location: 'New York, USA'
 url: 'http://mkrichey.github.io/'
 image: 'assets/images/casper.png'
 
